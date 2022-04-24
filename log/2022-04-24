@@ -1,0 +1,35 @@
+2022-04-24 18:45:05.501238
+输入定位签到模式
+单人签到模式
+当前IP：20.125.115.220,
+
+ 美国DXCTechnology
+
+系统时间：2022-04-24 18:45:06
+UTC时间：2022-04-24 19:45:05
+北京时间：2022-04-25 02:45:05
+北京时间与系统时间误差：7:59:58.599520
+2022-04-24 18:45:06.400530:21084216签到开始
+cookie文件存在
+cookie文件加载成功
+NAME聂道晟
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.824708，28.655227，江西省南昌市红谷滩区丰和南大道696号南昌航空大学
+{"status":0,"result":{"location":{"lng":115.83619647907169,"lat":28.65793100019498},"formatted_address":"江西省南昌市红谷滩区航空大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"航空大道","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.824732&lat=28.655213&sfby=1
+NAME聂道晟
+定位 115.824732，28.655213，江西省南昌市红谷滩区丰和南大道696号南昌航空大学
+{"status":0,"result":{"location":{"lng":115.83626459894519,"lat":28.657908607027289},"formatted_address":"江西省南昌市红谷滩区航空大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"航空大道","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E4%B8%B0%E5%92%8C%E5%8D%97%E5%A4%A7%E9%81%93696%E5%8F%B7%E5%8D%97%E6%98%8C%E8%88%AA%E7%A9%BA%E5%A4%A7%E5%AD%A6&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.8248&lat=28.655192&sfby=1
+签到成功
+2022-04-24 18:45:16.572723:21084216签到结束
+聂道晟21084216签到成功！
+2022-04-24 18:45:16.572752程序结束
+######################################################################
+
+
+
+
